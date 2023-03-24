@@ -29,6 +29,10 @@ body{
 .buttons:hover{
     background-color:black ;
 }
+.wrapper{
+    overflow-x: hidden;
+    
+}
 /* Home Styling */
 .home{
     width: 100%;
